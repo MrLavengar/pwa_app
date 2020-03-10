@@ -1,0 +1,16 @@
+{
+    "name": "PWA for PSM",
+    "short_name": "PWA",
+    "theme_color":"#2b47d0",
+    "background_color": "#2b47d0",
+    "display": "standalone",
+    "start_url": "https://jak0b.github.io/pwa_app/",
+    "splash_pages": null,
+    "icons":[
+        {
+            "src": "icons/icon-72x72.png",
+            "sizes": "72x72",
+            "type": "image/png"
+        }
+    ]
+}
