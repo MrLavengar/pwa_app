@@ -2,8 +2,13 @@ const cacheName = "cache"
 const assets = [
     "/",
     "/index.html",
+    "/ws.js",
+    "/manifest.json",
     "/style.css",
-    "/icons/icon-72x72.png"
+    "/icons/icon-72x72.png",
+    "/images/bmx.jpg",
+    "/images/miejski.jpg",
+    "/images/szosowy.jpg"
 ]
 
 self.addEventListener('install', event => {
