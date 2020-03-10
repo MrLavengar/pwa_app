@@ -4,6 +4,7 @@
     "theme_color":"#2b47d0",
     "background_color": "#2b47d0",
     "display": "standalone",
+    "Scope": "/",
     "start_url": "https://jak0b.github.io/pwa_app/",
     "splash_pages": null,
     "icons":[
